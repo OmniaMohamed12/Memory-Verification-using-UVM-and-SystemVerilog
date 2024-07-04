@@ -7,7 +7,7 @@ This project focuses on The Verification of a single port ram Using Class Based 
 
 ## UVM Architecture
 
-![ram uvm env - Page 1](https://github.com/OmniaMohamed12/Memory-Verification-using-UVM-and-SystemVerilog/assets/110364388/5dfe486e-82ba-41fa-a02d-de19503cfc39)
+![ram uvm env - Page 1 (2)](https://github.com/OmniaMohamed12/Memory-Verification-using-UVM-and-SystemVerilog/assets/110364388/36022ee0-4c20-4a52-96ef-6084bae4fa8d)
 
 ## Class Based Env
 
